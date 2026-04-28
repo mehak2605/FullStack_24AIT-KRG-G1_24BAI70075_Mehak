@@ -1,0 +1,23 @@
+.form{
+    border: 2px solid rgba(0, 0, 0, 0.57);
+    display: grid;
+    text-align: center;
+    place-items: center;
+    margin: 100px;
+    margin-bottom: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(3, 0, 0, 0.818);
+    padding: 20px;
+}
+#submit{
+    border: 2px solid rgba(0, 0, 0, 0.05);
+    border-radius: 100px;
+    width:100px;
+    height: 40px;
+    text-align: center;
+    place-items: center;
+    background-color: white;
+}
+#submit:hover{
+    background-color: #0066FF;
+}
